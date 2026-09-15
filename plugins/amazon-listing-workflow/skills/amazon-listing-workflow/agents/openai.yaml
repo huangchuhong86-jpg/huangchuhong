@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊上架工作流"
+  short_description: "逐页指导亚马逊美国站商品上架、变体创建和常见报错排查"
+  default_prompt: "使用 $amazon-listing-workflow 根据我的商品资料或截图，逐步指导我完成亚马逊美国站上架。"
